@@ -1,7 +1,5 @@
 # Hola 👋, I am Padwa Tingkasan
-
 An IT specialist working with automation
-
 - 🔧 I am deepening my skill in automation
 - 🎵 Fun fact about me is I love working when music's on
 - 📫 You can reach me at **pawtingkasan20@gmail.com**
@@ -18,7 +16,7 @@ An IT specialist working with automation
   <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
 </a>
 <a href="https://n8n.io" target="_blank" rel="noreferrer">
-  <img src="https://n8n.io/favicon.svg" alt="n8n" width="40" height="40"/>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/n8n-color.svg" alt="n8n" width="40" height="40"/>
 </a>
 <a href="https://www.notion.so" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="notion" width="40" height="40"/>
@@ -29,9 +27,11 @@ An IT specialist working with automation
 <a href="https://vercel.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
 </a>
+<a href="https://claude.ai" target="_blank" rel="noreferrer">
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg" alt="claude" width="40" height="40"/>
+</a>
 </p>
 
-
 <p align="center">
-  <i>"Automating the world, one workflow at a time 🚀"</i>
+  <i>"Automating the work, one workflow at a time 🚀"</i>
 </p>
