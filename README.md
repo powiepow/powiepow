@@ -18,7 +18,7 @@ An IT specialist working with automation
   <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
 </a>
 <a href="https://n8n.io" target="_blank" rel="noreferrer">
-  <img src="https://n8n.io/favicon.svg" alt="n8n" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/n8n-icon.svg" alt="n8n" width="40" height="40"/>
 </a>
 <a href="https://www.notion.so" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="notion" width="40" height="40"/>
