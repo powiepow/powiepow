@@ -13,7 +13,7 @@ An IT specialist working with automation
 ## Tools I Use:
 <p align="left">
 <a href="https://zapier.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/zapier-1.svg" alt="zapier" width="40" height="40"/>
 </a>
 <a href="https://n8n.io" target="_blank" rel="noreferrer">
   <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/n8n-color.svg" alt="n8n" width="40" height="40"/>
@@ -33,5 +33,5 @@ An IT specialist working with automation
 </p>
 
 <p align="center">
-  <i>"Automating the work, one workflow at a time 🚀"</i>
+  <i>"Automating the world, one workflow at a time 🚀"</i>
 </p>
